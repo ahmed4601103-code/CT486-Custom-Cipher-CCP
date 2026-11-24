@@ -1,3 +1,0 @@
-numpy>=1.24
-matplotlib>=3.7   # only needed to redraw the charts
-Pillow>=10        # only needed to rebuild the screenshot figures
